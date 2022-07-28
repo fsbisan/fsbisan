@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a target="_blank">AlexIos</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="45"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 <h3 align="center">IOS Developer from Russia 🇷🇺</h3>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ios+develop+forever)](https://git.io/typing-svg)
 
 <!---
 fsbisan/fsbisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
