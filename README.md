@@ -1,10 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a target="_blank">AlexIos</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">IOS Developer from Russia 🇷🇺</h3>
+
+
 
 <!---
 fsbisan/fsbisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
